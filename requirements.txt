@@ -4,3 +4,4 @@ numpy
 pickle5
 tensorflow
 keras
+tensorflow.keras.models
