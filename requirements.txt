@@ -1,8 +1,8 @@
-Pillow
-pickle5
+Pillow==9.4.0
+pickle5==0.0.11
 streamlit==1.11.1
 pandas==2.0.1
 numpy==1.24.3
 scikit-learn==1.2.2
-tensorflow==2.10.1
+tensorflow-cpu==2.10.1
 keras==2.10.0
