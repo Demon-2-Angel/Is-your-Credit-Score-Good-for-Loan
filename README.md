@@ -40,6 +40,42 @@ This script displays information about the project team and the objectives of th
 ### `credit_score_prediction.py`
 This script contains the machine learning model and prediction logic. It processes user input, applies the trained model, and returns a predicted credit score.
 
+## About Us
+
+### Our Mission
+We aim to democratize access to financial insights and empower users with the tools they need to navigate the complexities of credit and lending. Our goals include:
+
+1. **Enhancing Financial Literacy**
+   - Offering educational resources and tools to help users understand credit scoring and loan processes.
+
+2. **Promoting Financial Inclusion**
+   - Providing fair and unbiased credit assessments to ensure everyone has access to credit opportunities.
+
+3. **Supporting Financial Planning**
+   - Enabling users to make well-informed financial decisions with reliable data and predictive insights.
+
+4. **Innovating Continuously**
+   - Staying at the forefront of technology by continuously improving our algorithms and models to deliver the best possible service.
+
+### Why Choose Us?
+1. **Cutting-Edge Technology**
+   - We use the latest AI and ML algorithms to deliver precise and reliable results.
+
+2. **User-Centric Approach**
+   - Our tools are designed to be user-friendly and easy to understand.
+
+3. **Transparency and Trust**
+   - We believe in transparent processes and aim to build trust through accuracy and integrity.
+
+4. **Comprehensive Support**
+   - Our dedicated team is here to provide excellent support and guidance at every step.
+
+### Meet the Team
+- **Deekshit**
+- **Aniruddha**
+- **Sanika**
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
