@@ -1,0 +1,6 @@
+PIL
+pandas
+numpy
+pickle
+tensorflow
+keras
