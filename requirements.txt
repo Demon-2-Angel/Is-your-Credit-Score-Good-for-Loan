@@ -1,6 +1,6 @@
 pillow
 pandas
 numpy
-pickle
+pickle5
 tensorflow
 keras
