@@ -52,7 +52,7 @@ def app():
         st.image(".\pages\good img.JPG", caption="Aniruddha", use_column_width=True)
 
     with col3:
-        st.image(".\pages\sanika.png", caption="Sanika", use_column_width=True)
+        st.image("https://github.com/Demon-2-Angel/Neural-Expert-System-for-Credit-Card-Prediction/blob/main/pages/sanika.png", caption="Sanika", use_column_width=True)
 
 if __name__ == "__main__":
     app()
